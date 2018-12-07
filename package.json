@@ -1,0 +1,22 @@
+{
+  "name": "tv-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertshay888/tv-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertshay888/tv-app/issues"
+  },
+  "homepage": "https://github.com/albertshay888/tv-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
